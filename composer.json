@@ -1,0 +1,6 @@
+{
+    "name": "asus/pdfteste",
+    "require": {
+        "nmcteam/image-with-text": "~2.0"
+    }
+}
